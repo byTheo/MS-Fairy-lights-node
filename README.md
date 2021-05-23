@@ -8,7 +8,7 @@ It is of course not necessary to order a PCB but it makes life much easier than 
 
 The mounting point for the NRF24L01+ radio is set inwards, this is so that an anglds female header (2*5p 2.54mm) can be mounted. I needed the radio to be mounted angled - but you will see that in a picture.
 
-The Gerber files can be found in the hardware directory and you can order 5 pcb's for around 15 euro's including shipping and tax.
+The Gerber files can be found in the root of this repository - otherwise I couldn't get the OpenHardware to detect my Gerver and design files. You can order 5 pcb's for around 15 euro's including shipping and tax.
 
 The parts you need are:
 - 1 x th 100uf capacitor for stabalising the NRF24L01+
@@ -26,3 +26,5 @@ Optional:
 
 # Software
 All the embedded software I created for this board is located in the embedded software directory of this repository. 
+
+* Work in progress *
