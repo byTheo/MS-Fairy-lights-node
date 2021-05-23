@@ -6,7 +6,7 @@ It is of course not necessary to order a PCB but it makes life much easier than 
 
 ![alt text](hardware/PCB%202d%20photo.png)
 
-The mounting point for the NRF24L01+ radio is set inwards, this is so that an angles female header can me mounter. I needed the radio to be mounted angled - but you will see that in a picture.
+The mounting point for the NRF24L01+ radio is set inwards, this is so that an anglds female header (2*5p 2.54mm) can be mounted. I needed the radio to be mounted angled - but you will see that in a picture.
 
 The Gerber files can be found in the hardware directory and you can order 5 pcb's for around 15 euro's including shipping and tax.
 
