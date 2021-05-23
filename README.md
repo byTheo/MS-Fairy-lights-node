@@ -4,7 +4,7 @@ A MySensors node for controlling Fairy Light strings. For making the mounting of
 # Hardware
 It is of course not necessary to order a PCB but it makes life much easier than soldering it to a prototype board manually. This version supports up to 3 fairy lights - I have a seasonable version in my mind - and you can connect a tactile switch and rotary encoder to it for manual operation. I think that being able to manually operate smart lightning is a design must. Your phone battery can be empty or your HA system might be malfunctioning, so in those cases you need to be able to manually operate it.
 
-![alt text](hardware/PCB%202d%20photo.png)
+![alt text](PCB%202d%20photo.png)
 
 The mounting point for the NRF24L01+ radio is set inwards, this is so that an anglds female header (2*5p 2.54mm) can be mounted. I needed the radio to be mounted angled - but you will see that in a picture.
 
