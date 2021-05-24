@@ -25,6 +25,5 @@ Optional:
 - or a rotary encoder with tactile switch encorperated.
 
 # Software
-All the embedded software I created for this board is located in the *software* directory of this repository. 
-
-* Work in progress *
+All the embedded software I created for this board is located in the *software* directory of this repository. The directory contains several sketches that utilize the PCB and transform it into:
+- FairyLightLamp : a node with one single - dimmable - light which results in a nice ambiance.
