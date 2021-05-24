@@ -22,7 +22,7 @@ Depending on your FairyLight string, you need the following parts for each strin
 
 Optional:
 - either one tactile switch if you don't want to be able to manually dim the lights
-- or a rotary encoder with tactile switch encorperated.
+- or a rotary encoder with tactile switch encorparated.
 
 # Software
 All the embedded software I created for this board is located in the *software* directory of this repository. The directory contains several sketches that utilize the PCB and transform it into:
