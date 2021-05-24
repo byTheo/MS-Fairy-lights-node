@@ -17,8 +17,8 @@ The parts you need are:
 
 Depending on your FairyLight string, you need the following parts for each string:
 - 1 2N7000 th - this mosfet can drive 200mA. My fairylights consume about 40mA at max brightness so more than sufficient
-- 18 ohm th resistor - this is for current limiting the fairy light string
-- 1K pull down resistor (TH) - for pulling down the 2n7000's gate
+- 22 ohm th resistor - this is for current limiting the fairy light string it works on 2m fairy lights strings that are powered by 3  * AA batteries
+- 1K pull down resistor (TH) - for pulling down the 2n7000's gate (10K or 100K is also fine)
 
 Optional:
 - either one tactile switch if you don't want to be able to manually dim the lights
