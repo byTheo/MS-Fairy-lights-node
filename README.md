@@ -25,6 +25,6 @@ Optional:
 - or a rotary encoder with tactile switch encorperated.
 
 # Software
-All the embedded software I created for this board is located in the embedded software directory of this repository. 
+All the embedded software I created for this board is located in the *software* directory of this repository. 
 
 * Work in progress *
